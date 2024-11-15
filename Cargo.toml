@@ -7,5 +7,5 @@ edition = "2021"
 members = ["crates/*"]
 
 [dependencies]
-baxe-core = { path = "crates/core" }
-baxe-derive = { path = "crates/derive" }
+baxe-core = { path = "crates/core", version = "0.1.0" }
+baxe-derive = { path = "crates/derive", version = "0.1.0" }

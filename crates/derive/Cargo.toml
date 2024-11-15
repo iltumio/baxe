@@ -1,9 +1,10 @@
 [package]
 name = "baxe-derive"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Procedural macro for Baxe library."
 license = "MIT"
+repository = "https://github.com/iltumio/baxe"
 
 [lib]
 proc-macro = true

@@ -1,0 +1,11 @@
+[package]
+name = "baxe"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = ["crates/*"]
+
+[dependencies]
+baxe-core = { path = "crates/core" }
+baxe-derive = { path = "crates/derive" }

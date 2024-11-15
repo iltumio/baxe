@@ -1,8 +1,11 @@
 [package]
-name = "baxe-core"
+name = "baxe"
 version = "0.1.0"
 edition = "2021"
+description = "A library that simplifies error handling in Axum."
+license = "MIT"
 
 [dependencies]
 serde = { version = "1.0.215", features = ["derive"] }
 axum = "0.7.7"
+baxe-derive = { path = "../derive", version = "0.1.0" }

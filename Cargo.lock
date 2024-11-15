@@ -102,15 +102,8 @@ dependencies = [
 name = "baxe"
 version = "0.1.0"
 dependencies = [
- "baxe-core",
- "baxe-derive",
-]
-
-[[package]]
-name = "baxe-core"
-version = "0.1.0"
-dependencies = [
  "axum",
+ "baxe-derive",
  "serde",
 ]
 

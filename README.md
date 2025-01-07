@@ -1,5 +1,3 @@
-# ❗❗ This project has been moved to [zyphelabs/baxe](https://github.com/zyphelabs/baxe) ❗❗
-
 # Better Axum Errors
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
